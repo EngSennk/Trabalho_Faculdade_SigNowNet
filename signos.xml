@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>19/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>O pioneiro do zodíaco. Você possui uma energia inesgotável e uma coragem que inspira. Seu espírito é de liderança nata, focado em abrir caminhos onde outros veem obstáculos. Impulsivo e autêntico, você vive o presente com intensidade máxima.</descricao>
+    <caracteristica>Coragem, Iniciativa, Energia</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>20/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>A força da estabilidade. Você é o porto seguro, alguém que valoriza a beleza, o conforto e a lealdade acima de tudo. Sua persistência é sua maior arma para construir um legado sólido. Aprecia os prazeres sensoriais e possui um senso prático invejável.</descricao>
+    <caracteristica>Lealdade, Persistência, Conforto</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>O mestre da comunicação. Sua mente é um labirinto de curiosidade e versatilidade. Com uma habilidade única de se adaptar e aprender, você conecta pessoas e ideias. Sua dualidade permite enxergar todos os lados de uma questão com agilidade mental.</descricao>
+    <caracteristica>Curiosidade, Adaptabilidade, Intelecto</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>O guardião das emoções. Sua intuição é sua bússola. Profundamente ligado às raízes e à família, você possui uma natureza protetora e acolhedora. Sua sensibilidade permite compreender o que não é dito, criando laços afetivos inquebráveis.</descricao>
+    <caracteristica>Intuição, Cuidado, Empatia</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>O brilho da autoconfiança. Você nasceu para o palco da vida. Com um coração generoso e uma presença magnética, você ilumina qualquer ambiente. Sua lealdade é absoluta e seu espírito criativo não conhece limites quando se trata de proteger quem ama.</descricao>
+    <caracteristica>Magnetismo, Generosidade, Nobreza</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>A busca pela perfeição. Seu olhar atento percebe o detalhe que todos ignoram. Organizado, analítico e profundamente dedicado, você encontra propósito em ser útil e em aprimorar o mundo ao seu redor. Sua inteligência é prática e sua dedicação é exemplar.</descricao>
+    <caracteristica>Análise, Organização, Eficiência</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>O arquiteto da harmonia. Você busca o equilíbrio e a justiça em cada interação. Com um charme diplomático natural, você é um mestre em mediar conflitos e apreciar a estética. Valoriza as relações e acredita que a beleza pode salvar o mundo.</descricao>
+    <caracteristica>Equilíbrio, Estética, Diplomacia</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>A intensidade da transformação. Você mergulha onde outros temem nadar. Misterioso e resiliente, possui uma força emocional capaz de regenerar e transmutar qualquer situação. Sua lealdade é profunda e sua intuição, quase infalível.</descricao>
+    <caracteristica>Mistério, Resiliência, Profundidade</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>O explorador do infinito. Sua alma clama por liberdade e novos horizontes. Com um otimismo contagiante e uma sede filosófica de conhecimento, você encara a vida como uma grande aventura. Sua sinceridade e entusiasmo abrem portas por onde passa.</descricao>
+    <caracteristica>Liberdade, Otimismo, Aventura</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>19/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>A mestre da disciplina. Você entende que grandes conquistas exigem tempo e esforço. Com uma paciência admirável e um senso de responsabilidade inabalável, você sobe a montanha da vida com passos firmos, focado em construir algo duradouro.</descricao>
+    <caracteristica>Ambição, Foco, Responsabilidade</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>20/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>O visionário do amanhã. Sua mente habita o futuro. Independente e humanitário, você questiona padrões para criar um mundo mais original e justo. Valoriza a amizade e a liberdade intelectual, sendo sempre a voz da inovação.</descricao>
+    <caracteristica>Inovação, Independência, Visão</caracteristica>
+  </signo>
+  <signo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>O poeta do zodíaco. Sua conexão com o espiritual e o emocional é vasta como o oceano. Sonhador e empático, você sente as dores e alegrias do mundo. Sua criatividade flui da alma, tornando-o um ser de sensibilidade e compaixão únicas.</descricao>
+    <caracteristica>Sonhos, Empatia, Espiritualidade</caracteristica>
+  </signo>
+</signos>
