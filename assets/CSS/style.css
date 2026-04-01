@@ -1,4 +1,4 @@
-/* Importante: Remova seletores como .body .dark e use diretamente o body */
+
 body {
     background: #020110 !important; /* Força o fundo escuro */
     background: radial-gradient(circle at center, #1a0b2e 0%, #020110 100%) !important;
@@ -12,22 +12,34 @@ body {
 .custom-card, .flashcard {
     background: rgba(255, 255, 255, 0.03);
     backdrop-filter: blur(12px);
-    border: 1px solid rgba(123, 44, 191, 0.3);
+    border: 1px solid rgba(173, 146, 196, 0.3);
     border-radius: 24px;
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
 }
 
+.lead{
+    font-size: 25px;
+    box-shadow: 1px 1px 2px 2px #fb61e4;
+   
+}
+
+
 .flashcard {
     border: 2px solid #7b2cbf;
-    animation: fadeIn 0.6s ease-out;
+    animation: zoom-out 1s ease-out;
 }
 
 /* Cores e Tipografia */
-.text-purple-light { color: #c77dff; }
-.border-purple { border-color: #7b2cbf; opacity: 0.5; }
+.text-purple-light 
+{ color: #e217d1;
+    width: 20px;
+    text-align: center;
+    
+}
+.border-purple { border-color: #53085a; }
 
 .tracking-widest {
-    letter-spacing: 0.3em;
+    letter-spacing: 0.2em;
     font-size: 20px;
     font-weight: 700;
 }
@@ -35,7 +47,7 @@ body {
 /* Botões Customizados */
 .btn-purple {
     background: #7b2cbf;
-    color: white;
+    color:rgb(236, 191, 222);
     border: none;
     padding: 12px 25px;
     font-weight: bold;
@@ -58,20 +70,22 @@ body {
 }
 
 .btn-outline-purple:hover {
-    background: #7b2cbf;
-    color: white;
+    background: #64035f;
+    color: rgb(224, 150, 202);
 }
 
 /* Inputs */
 .form-control {
-    background: rgba(255, 255, 255, 0.05);
-    border: 1px solid #3c096c;
-    color: white !important;
+    background: rgba(123, 16, 140, 0.559);
+    border: 20px solid #3c096c;
+    color: rgb(255, 32, 218) !important;
     border-radius: 10px;
+    font-size: 25px;
+    box-shadow: #fb61e4 2px 2px 2px 2px;
 }
 
 .form-control:focus {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(83, 8, 83, 0.907);
     border-color: #7b2cbf;
     box-shadow: 0 0 0 0.25rem rgba(123, 44, 191, 0.25);
 }
